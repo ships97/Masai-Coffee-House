@@ -1,0 +1,23 @@
+#bucket{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px 40px;
+}
+#bucket>div{
+    border: 1px solid red;
+}
+img{
+    width: 50%;
+    height: 200px;
+    margin-left: 120px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+#remove_coffee{
+    margin-left: 210px;
+    margin-bottom: 10px;
+}

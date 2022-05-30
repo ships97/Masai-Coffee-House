@@ -1,0 +1,45 @@
+body{
+    background-image: url("https://media.istockphoto.com/photos/abstract-aqua-blue-blurred-bokeh-background-picture-id530416762?k=20&m=530416762&s=612x612&w=0&h=Z0B6i84sT-_VNeX5D_K91470S2s-3qkjhhCz4au77AI=");
+}
+h1{
+    text-align: center;
+}
+#form{
+    /* border: 1px solid red; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: crimson;
+    border-radius: 10px;
+    width: 40%;
+    height: 280px;
+    margin: auto;
+}
+#name{
+    border: 1px solid black;
+    width: 90%;
+    margin-left: 19px;
+    margin-top: 20px;
+    padding: 10px;
+}
+#number{
+    border: 1px solid black;
+    width: 90%;
+    margin-left: 19px;
+    margin-top: 25px;
+    padding: 10px;
+}
+#address{
+    border: 1px solid black;
+    width: 90%;
+    margin-left: 19px;
+    margin-top: 25px;
+    padding: 10px;
+}
+#confirm{
+    border: 1px solid black;
+    width: 93.6%;
+    margin-left: 19px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
